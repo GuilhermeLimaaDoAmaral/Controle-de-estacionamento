@@ -24,7 +24,6 @@ namespace WinFormsApp2
 		{
 			con.Open();
 		}
-
 		return con;
 	}
 
