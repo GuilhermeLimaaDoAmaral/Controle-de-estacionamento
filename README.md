@@ -1,4 +1,4 @@
-# Controle-de-estacionamento---Benner
+# Controle-de-estacionamento
 
 Script de criação da tabela:
 
